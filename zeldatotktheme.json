@@ -1,6 +1,6 @@
 {
-    "name": "Pixel City",
-    "description": "A theme of Pixel City animated background. DARK MODE REQUIRED!",
+    "name": "Link",
+    "description": "A simple link theme for Vendetta. DARK MODE REQUIRED!",
     "authors": [
         {
             "name": "Wizzy#0211",
@@ -12,19 +12,19 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "TEXT_LINK": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "TEXT_DANGER": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -36,46 +36,46 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "BACKGROUND_FLOATING": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0D126165"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#081924"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#081924"
+            "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#081924"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,13 +84,13 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#081924"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
         "TEXT_LINK": [
-            "#4c7f90"
+            "#507dfc"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
@@ -100,31 +100,33 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#4c7f90",
-        "PRIMARY_500": "#4c7f90",
-        "PRIMARY_600": "#081924",
-        "PRIMARY_630": "#081924",
-        "PRIMARY_660": "#081924",
-        "PRIMARY_700": "#081924",
-        "PRIMARY_800": "#081924",
-        "BRAND_260": "#4c7f90",
-        "BRAND_360": "#4c7f90",
-        "BRAND_500": "#4c7f90",
+        "PRIMARY_360": "#507dfc",
+        "PRIMARY_500": "#507dfc",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#507dfc",
+        "BRAND_360": "#507dfc",
+        "BRAND_500": "#507dfc",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#4c7f90",
-        "YELLOW_300": "#4c7f90",
-        "ORANGE_345": "#4c7f90",
-        "GREEN_345": "#4c7f90",
-        "GREEN_360": "#4c7f90",
-        "RED_560" : "#4c7f90",
-        "RED_400": "#4c7f90"
+        "BLUE_345": "#507dfc",
+        "YELLOW_300": "#507dfc",
+        "ORANGE_345": "#507dfc",
+        "GREEN_345": "#507dfc",
+        "GREEN_360": "#507dfc",
+        "RED_560" : "#507dfc",
+        "RED_400": "#507dfc"
     },
     "spec": 2,
     "background": {
-        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
+        "blur": 0.6,
+        "url": "https://cdn.discordapp.com/attachments/966774000254582804/1104465782496305193/d38edae141992dc009b82ffeefe7ae99.jpg",
         "alpha": 0.5,
-        "color": "#081924"
+        "color": "#000000"
     }
 }
+
 
